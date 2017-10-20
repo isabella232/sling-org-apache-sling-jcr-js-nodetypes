@@ -38,9 +38,9 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/commons/jsnodetypes</connection>
-		<developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/commons/jsnodetypes</developerConnection>
-		<url>http://svn.apache.org/viewvc/sling/trunk/contrib/commons/jsnodetypes</url>
+		<connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-jcr-js-nodetypes.git</conncetion>
+		<developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-jcr-js-nodetypes.git</developerConnection>
+		<url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-jcr-js-nodetypes.git</url>
 	</scm>
 
 	<build>
